@@ -26,13 +26,9 @@ Program ini dibuat untuk memenuhi tugas projek mata kuliah **Pemrograman Berorie
 2. Jalankan perintah berikut (ganti URL dengan link repository Anda):
     -bash
     git clone https://github.com/sahdila-irwan-24093/projek1_info4.git
-
-<!-- ## Cara Menjalankan Program
-1. Clone repository dari GitHub
-3. Buka terminal / command prompt
-4. Masuk ke folder projek (cd Desktop/PBO/projek)
-5. Jalankan perintah:
-    py perpustakaan.py -->
+3. Masuk ke folder projek (projek1_info4)
+4. Run program dengan perintah
+   py perpustakaan.py
 
 Setelah program dijalankan, akan muncul menu berikut:
 === MENU PERPUSTAKAAN ===
@@ -56,4 +52,5 @@ Informasi yang ditampilkan:
 4.Jika buku sudah dipinjam atau kode salah, akan muncul pesan kesalahan
 
 ## 3. Keluar
+
 Pilih menu 3 untuk keluar dari program dan akan muncul tampilan "Terima Kasih"
