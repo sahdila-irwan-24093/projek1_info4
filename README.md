@@ -44,15 +44,18 @@ Informasi yang ditampilkan:
 2.Judul Buku
 3.Penulis
 4.Status Buku
+---
 
 ## 2. Pinjam Buku
 1.Pilih menu 2
 2.Masukkan kode buku yang ingin dipinjam (contoh: 01)
 3.Jika buku tersedia, status buku akan berubah menjadi Dipinjam
 4.Jika buku sudah dipinjam atau kode salah, akan muncul pesan kesalahan
+---
 
 ## 3. Keluar
 
 Pilih menu 3 untuk keluar dari program dan akan muncul tampilan "Terima Kasih"
 ---
+
 
