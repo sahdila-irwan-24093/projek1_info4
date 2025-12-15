@@ -20,13 +20,13 @@ Program ini dibuat untuk memenuhi tugas projek mata kuliah **Pemrograman Berorie
 
 ## Cara Menggunakan Program (Mulai dari Clone Repository)
 ### 1. Clone Repository dari GitHub
-- 1. Buka terminal / command prompt
-- 2. Jalankan perintah berikut (ganti URL dengan link repository Anda):
--    -bash
--    git clone https://github.com/sahdila-irwan-24093/projek1_info4.git
-- 3. Masuk ke folder projek (projek1_info4)
-- 4. Run program dengan perintah
--    py perpustakaan.py
+- Buka terminal / command prompt
+- Jalankan perintah berikut (ganti URL dengan link repository Anda):
+- -bash
+-  git clone https://github.com/sahdila-irwan-24093/projek1_info4.git
+- Masuk ke folder projek (projek1_info4)
+- Run program dengan perintah
+-   py perpustakaan.py
 
 
 Setelah program dijalankan, akan muncul menu berikut:
@@ -34,7 +34,7 @@ Setelah program dijalankan, akan muncul menu berikut:
 - 1. Tampilkan Buku
 - 2. Pinjam Buku
 - 3. Keluar
----
+
 
 ## 1. Tampilkan Ketersediaan buku
 Program akan menampilkan seluruh daftar buku
