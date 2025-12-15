@@ -54,3 +54,5 @@ Informasi yang ditampilkan:
 ## 3. Keluar
 
 Pilih menu 3 untuk keluar dari program dan akan muncul tampilan "Terima Kasih"
+---
+
